@@ -13,7 +13,10 @@ Learning by building real projects with a production mindset
 - Git and Github
 - Linux
 - Docker(learning)
+- Kubernetes(learning)
+- Terraform(learning)
 - Cloud & CI/CD (learning)
+- 
 
 ##  What you'll find here
 - Beginner-friendly projects built with clean code principles
